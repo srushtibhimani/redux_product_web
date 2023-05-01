@@ -1,0 +1,25 @@
+.menu_margin{
+  margin-left: 46%;
+}
+.bag_size{
+  font-size: 25px;
+}
+.text-dark:hover{
+  color: red!important;
+}
+.bg_img img{
+  width: 100%;
+}
+.text-position{
+  top: 30%;
+}
+.slider_text{
+  color: #3d4760!important;
+}
+.font-size{
+  font-size: 450%;
+  font-weight: 700;
+}
+.border-none{
+  border: none!important;
+}
